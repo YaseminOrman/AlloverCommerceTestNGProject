@@ -3,7 +3,7 @@
     <test name="Regression Test">
         <packages>
             <!-- run all packages that has @Test annotation-->
-            <package name="allover_commerce.*"/>
+            <package name="allovercommerce.*"/>
         </packages>
     </test>
 </suite>
